@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{DC76D0B4-A4F3-ED1E-CCB4-1552F73987D4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ARSlam/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ARSlam/Raycast.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/ARSlam/CameraController.cs" Line="240" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARFoundationDemo_IOS" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ARSlam" expanded="True">
+                  <Node name="CameraController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ARFoundationDemo_IOS" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hakunaqq/Study/ARFoundationDemo_IOS/Library/PackageCache/com.unity.xr.arfoundation@4.1.1/Runtime/AR/ARSessionOrigin.cs" relfile="Library/PackageCache/com.unity.xr.arfoundation@4.1.1/Runtime/AR/ARSessionOrigin.cs" line="152" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ARFoundationRemote.Editor PreferredExecutionTarget="e95a7862-7110-4197-b6d2-d9333a411804" />
+</Properties>

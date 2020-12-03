@@ -1,0 +1,21 @@
+{
+    "name": "ARFoundationRemote.Meshing",
+    "references": [
+        "GUID:e40ba710768534012815d3193fa296cb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.kyrylokuzyk.arfoundationremote",
+            "expression": "1.0.0",
+            "define": "AR_FOUNDATION_REMOTE_INSTALLED"
+        }
+    ],
+    "noEngineReferences": false
+}

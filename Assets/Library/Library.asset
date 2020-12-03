@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Library
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5668998239869209533
+  m_GuidHigh: 7097954160045988747
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4650023591777749948
+      m_GuidHigh: 8317590991982137498
+    m_SerializedTextureGuid:
+      m_GuidLow: 17595889555196810913
+      m_GuidHigh: 436767543838276491
+    m_Size: {x: 0.05, y: 0.0336}
+    m_SpecifySize: 1
+    m_Name: Icon3
+    m_Texture: {fileID: 2800000, guid: cc8316a12852f4318b7be65bc4b50f06, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5150161739132592358
+      m_GuidHigh: 1718194029512784014
+    m_SerializedTextureGuid:
+      m_GuidLow: 13014107687422755677
+      m_GuidHigh: 7358809573922861739
+    m_Size: {x: 0.045, y: 0.043}
+    m_SpecifySize: 1
+    m_Name: Icon4
+    m_Texture: {fileID: 2800000, guid: 7183835d65fdb49bab726a9f51be1f66, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4906408527049118277
+      m_GuidHigh: 2470809402484484510
+    m_SerializedTextureGuid:
+      m_GuidLow: 4938271873359106971
+      m_GuidHigh: 937384785863073290
+    m_Size: {x: 0.254, y: 0.16891992}
+    m_SpecifySize: 1
+    m_Name: Rafflesia
+    m_Texture: {fileID: 2800000, guid: cfdf539b441a44880a5e390b7f42020d, type: 3}
